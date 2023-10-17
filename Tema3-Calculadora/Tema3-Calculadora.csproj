@@ -6,6 +6,11 @@
     <RootNamespace>Tema3_Calculadora</RootNamespace>
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
+    <ApplicationIcon>IconoCalculadora.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="IconoCalculadora.ico" />
+  </ItemGroup>
 
 </Project>
